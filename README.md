@@ -4,7 +4,7 @@ Treino de PHP seguindo o [Cuso Completo de PHP 7](https://www.udemy.com/course/c
 ## Como rodar 
 ### Pré-requisitos:
 * Ter instalado o [xampp](https://www.apachefriends.org/pt_br/index.html)
-* Ter um browser qualquer ]
+* Ter um browser qualquer 
 * Portas 443, 80, 3006 liberadas 
 
 1. Para rodar quaisquer dos exemplos cole as pastas desejadas em `..\xampp\htdocs`
